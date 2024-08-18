@@ -172,7 +172,8 @@ body {
 
 
 .about{
-  margin-bottom: 50px;
+  margin-bottom: 20px;
+  margin-top: 10px;
 }
 
 .about:last-child
@@ -271,7 +272,10 @@ p{
   background: #03a9f4 ;
 
 }
-
+.interest{
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
 .interest ul{
   display: grid;
   grid-template-columns: repeat(3,1fr);
@@ -279,7 +283,7 @@ p{
 
 .interest ul li {
   list-style: none ;
-  color: #333 ;
+  color: #fff ;
   font-weight: 500;
   margin: 10px 0;
   margin-left: 20px;
